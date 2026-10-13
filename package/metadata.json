@@ -1,0 +1,13 @@
+{
+    "KPlugin": {
+        "Id": "cz.saruman.strava",
+        "Name": "Strava Meals",
+        "Description": "Today's and tomorrow's ordered meals from Strava.cz",
+        "Icon": "food",
+        "Version": "0.1.0",
+        "License": "GPL-3.0",
+        "Authors": [{"Name": "SAruman"}]
+    },
+    "KPackageStructure": "Plasma/Applet",
+    "X-Plasma-API-Minimum-Version": "6.3"
+}
